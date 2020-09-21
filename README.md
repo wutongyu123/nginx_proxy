@@ -1,4 +1,4 @@
-# Nginx forward proxy
+# Nginx forward proxy  （Nginx正向代理，解决https请求的代理问题）
 
 [Nginx](https://nginx.org/en/) is a very fast HTTP and reverse proxy server. 
 Usually, Nginx is used to serve and cache static assets or as proxy or load balancer for incoming traffic to application servers. In this repository, it is used as forward proxy. 
